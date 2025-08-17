@@ -1,0 +1,5 @@
+CustomerID,Name,Email,Phone,Country,PurchaseAmount,Date
+1,John Doe,john.doe@gmail.com,123456789,USA,250,2024-05-12
+2,Jane Smith,jane.smith@gmail.com,9876543210,India,300,2024-06-18
+3,Mike Johnson,mike.johnson@gmail.com,5551234,Unknown,450,2024-07-01
+5,Sarah Lee,sarah.lee@gmail.com,444555666,UK,325,2024-05-25
