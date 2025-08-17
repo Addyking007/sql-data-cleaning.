@@ -1,0 +1,6 @@
+CustomerID,Name,Email,Phone,Country,PurchaseAmount,Date
+1,John Doe,john.doe@gmail,123-456-789,USA,250,2024/05/12
+2,Jane Smith,,9876543210,India,300,2024-06-18
+3,Mike Johnson,mike.johnson@gmail.com,555-1234,NULL,450,2024-07-01
+4,Jane Smith,jane.smith@gmail.com,9876543210,India,300,2024-06-18
+5,Sarah Lee,sarah.lee@gmail.com,444-555-666,UK,,2024-05-25
